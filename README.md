@@ -1,6 +1,6 @@
 # Django-React-E-commerce
 
-![Project Image](https://i.ibb.co/fvQhfqh/everydaymarket.png)
+![Project Image]()
 
 > ESI_TECH.
 
