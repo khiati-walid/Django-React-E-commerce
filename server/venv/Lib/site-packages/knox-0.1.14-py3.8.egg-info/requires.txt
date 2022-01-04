@@ -1,0 +1,6 @@
+click
+hvac
+loguru
+dynaconf
+shortuuid
+validators
