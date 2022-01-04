@@ -136,7 +136,7 @@ Not featured yet
 
 MIT License
 
-Copyright (c) [2021] [Khiati Walid]
+Copyright (c) [2022] [Khiati Walid]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
